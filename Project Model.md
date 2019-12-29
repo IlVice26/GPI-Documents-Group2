@@ -31,15 +31,15 @@ Prendendo i dati dal database di Marconi TimeTable che gestisce le prenotazioni 
 ETL-Support-2018 permetterà una esecuzione automaticamente del backup dei dati della gestione delle prenotazioni e la produzione di un file tabellare.
 
 ## Actions
-Creazione di Trello showcase
-Creazione Business Model Canvas
-Creazione Poject Charter
-Creazione Project Model Canvas
-Creazione Sotfware Project Management Plan
-Creazione Sotfware Requirements Speciication
-Pianificazione degli script
-Sviluppo degli script
-Fix dei bug
+Creazione di Trello showcase  
+Creazione Business Model Canvas  
+Creazione Poject Charter  
+Creazione Project Model Canvas  
+Creazione Sotfware Project Management Plan  
+Creazione Sotfware Requirements Speciication  
+Pianificazione degli script  
+Sviluppo degli script  
+Fix dei bug  
 
 ## Timeline
 `29/03/2019 - Pianificazione exportdata.py`  
@@ -58,10 +58,10 @@ Fix dei bug
 `16/12/2019 - Completata la versione finale del programma`  
 
 ## Resources
-Python 3.7
-MySQL
-SQL
+Python 3.7  
+MySQL  
+SQL  
 
 ## Constraints
-Time
-Hardware
+Time  
+Hardware  
