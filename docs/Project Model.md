@@ -22,7 +22,7 @@
 - **Simone Gandini** 
 
 ## Purpose
-Prendendo i dati dal database di Marconi TimeTable che gestisce le prenotazioni delle aule, tramite il processo ETL (extract, transfrom and elaborate) creare uno script che:
+Prendendo i dati dal database di Marconi TimeTable che gestisce le prenotazioni delle aule, tramite il processo ETL (extract, transfrom and load) creare uno script che:
 -   produca un file tabellare (.csv)
 -   importare il file sul database per il reporting services
 -   aggiorni il database di backup
