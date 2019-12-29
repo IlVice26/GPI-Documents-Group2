@@ -18,7 +18,7 @@
 - **Adrian Munteanu**
 - **Luca Landolfo**
 - **Enrico Marocchio**
-- **Elica Vicentini**
+- **Elia Vicentini**
 - **Simone Gandini** 
 
 ## Purpose
@@ -44,7 +44,7 @@ Fix dei bug
 ## Timeline
 `29/03/2019 - Pianificazione exportdata.py`  
 `29/03/2019 - Creazione file di configurazione json`  
-`30/03/2019 - Produzion setup.py`  
+`30/03/2019 - Produzione setup.py`  
 `02/04/2019 - Creazione exportdata.py`  
 `02/04/2019 - Tests`  
 `02/04/2019 - Bug fixes`  
@@ -54,7 +54,7 @@ Fix dei bug
 `30/09/2019 - Bug fixes`  
 `30/09/2019 - Update all scripts`  
 `21/10/2019 - Completato lo script per i file di log`  
-`16/12/2019 - Perezionamento di exportdata.py`  
+`16/12/2019 - Perfezionamento di exportdata.py`  
 `16/12/2019 - Completata la versione finale del programma`  
 
 ## Resources
