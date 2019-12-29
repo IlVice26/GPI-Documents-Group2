@@ -13,7 +13,7 @@ Software Requirements Specification
 - Definitions
 
 ### 2) General Design Constraints
-- Roo Balance Application Environment
+- ETL Support Application Environment
 - User Characteristics
 - Mandated Constraints
 
