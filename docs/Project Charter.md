@@ -50,5 +50,9 @@ Software Requirements Specification
 
 ### 1) Introduction
 ### Overview
+The ETL-Support program will be a Python script available only for Windows operating system. The program will allow you to back up your classroom reservation management data on a server (SIGMAQ). The backup result will be made available by the Reporting Service of the school.
+This document provides information on the requirements for the ETL Support software application.
 
-The ETL-Support program will be a Python script available only for Windows operating system. The program will allow you to back up your classroom reservation management data on a server (SIGMAQ). The backup result will be made available by the Reporting Service.
+### Goals and Objectives
+The purpose of ETL Support is to back up classroom reservation time data on a server (SIGMAQ) to allow for the visualization of the data thanks to the reporting services of the school.
+
