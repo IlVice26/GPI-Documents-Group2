@@ -43,6 +43,9 @@ Luca Landolfo is responsible for the development and maintenance of this documen
 2.2 Project Communications
 2.3 Technical Process
 2.4 Tools
+### 3 WORK PLAN
+3.1 Resource Estimate
+3.2 Release Plan
 
 # 1. Overview
 
@@ -61,7 +64,7 @@ You will be able to start the program in _two_ different ways:
  - **api**
 	 - The program will connect to the school's database **via an API**, specifically created by the MarconiTT team.
 
-The program will be used primarily by the authorized stakeholder: _**Prof. Bellini G.**_
+The program will be used primarily by the authorized stakeholder: _**Prof. Bellini G.**_ (RefOrarioWeb).
 
 ## 1.2 Goals and Objectives
 The goal is to provide a functional and fast script, for a better management and reliability of the **data concerning the school's classroom reservations**, which will then be used by the MarconiTT web application for a better visualization of the data.
@@ -87,7 +90,7 @@ The goal is to provide a functional and fast script, for a better management and
 | 30/09/2019 | Bug fixes |
 | 30/09/2019 | Update all scripts |
 | 21/10/2019 | Finished the script for log files |
-| 16/12/2019 | Improvement of _exportdata.py_ |
+| 16/12/2019 | Improvements on _exportdata.py_ |
 | 16/12/2019 | Finished the final version of the product |
 
 ## 1.4 Assumptions and Constraints
@@ -145,4 +148,19 @@ Feedback from the Stakeholder will be used to improve the next iteration.
  - _Version Control System_ - Git, the project will be stored on a GitHub repository
  - _Development Tools_- Visual Studio Code, SQL Server
 
+ # 3 Work Plan
+ ## 3.1 Resource Estimate
+ The following table shows a more or less accurate representation of how much time (in hours) _we expected to finish the project_ (Effort Estimates), and how much time _we realistically took to complete the program_ (Actual Effort).
  
+| Task | Owner | Effort Estimates (Hr) | Actual Effort (Hr)|
+|--|--|--|--|
+| Plan the project | Whole team | 5 | 2.45 |
+| Config of the json file | Landolfo | 0.20 | 0.30 |
+| Production _setup.py_ | Munteanu, Vicentini | 5 | 6 |
+| Creation of the 1st version of _exportdata.py_, with tests and bug fixes | Whole team | 20 | 14 |
+| Script that works on log files | Marocchio | 10 | 20 |
+| Update the program to work with MarconiTT's API | Whole team | 2 | 1.30 |
+| Completed and Updated the script for the log files | Marocchio | 2 | 2.15 |
+| Final improvements and bug fixes of the main program | Whole team | 10 | 4 |
+| **Total:** | // | **54.2** | **50.2** |
+
