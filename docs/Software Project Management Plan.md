@@ -32,20 +32,20 @@ Luca Landolfo is responsible for the development and maintenance of this documen
 # Table of Contents
 
 ### **1 OVERVIEW**
-1.1 Purpose and Scope
-1.2 Goals and Objectives
-1.3 Project Deliverables 
-1.4 Assumptions and Constraints
-1.5 Success Criteria
-1.6 Definitions
-### 2 STARTUP PLAN
-2.1 Team Organization
-2.2 Project Communications
-2.3 Technical Process
-2.4 Tools
-### 3 WORK PLAN
-3.1 Resource Estimate
-3.2 Release Plan
+1.1 Purpose and Scope  
+1.2 Goals and Objectives  
+1.3 Project Deliverables  
+1.4 Assumptions and Constraints  
+1.5 Success Criteria  
+1.6 Definitions  
+### 2 STARTUP PLAN  
+2.1 Team Organization  
+2.2 Project Communications  
+2.3 Technical Process  
+2.4 Tools  
+### 3 WORK PLAN  
+3.1 Resource Estimate  
+3.2 Release Plan  
 
 # 1. Overview
 
