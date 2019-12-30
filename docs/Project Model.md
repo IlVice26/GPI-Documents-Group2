@@ -8,6 +8,15 @@
 |Project Manager|Bellini Gianni         |
 |Users          |Referente Orario       |
 
+## Purpose
+Taking the data from the Marconi TimeTable database that manages the classrooms reservations, through the ETL (extract, transfrom and load) process create a script that
+- produce a table file (.csv)
+- import the file into the database for SQL reporting services
+- update the backup database
+ 
+## Scope
+ETL-Support-2018 will allow automatic backup of booking management data and generation of a tabular file.
+
 ## Stakeholders
 - **Referente orario**
 - **Referente orario web**
@@ -21,25 +30,17 @@
 - **Elia Vicentini**
 - **Simone Gandini** 
 
-## Purpose
-Prendendo i dati dal database di Marconi TimeTable che gestisce le prenotazioni delle aule, tramite il processo ETL (extract, transfrom and load) creare uno script che:
--   produca un file tabellare (.csv)
--   importare il file sul database per il reporting services
--   aggiorni il database di backup
-
-## Scope
-ETL-Support-2018 permetterà una esecuzione automaticamente del backup dei dati della gestione delle prenotazioni e la produzione di un file tabellare.
-
 ## Actions
-Creazione di Trello showcase  
-Creazione Business Model Canvas  
-Creazione Poject Charter  
-Creazione Project Model Canvas  
-Creazione Sotfware Project Management Plan  
-Creazione Sotfware Requirements Speciication  
-Pianificazione degli script  
-Sviluppo degli script  
-Fix dei bug  
+Setting up Trello showcase  
+Production of Business Model Canvas  
+Production of Poject Charter  
+Production of Project Model Canvas  
+Production of Sotfware Project Management Plan  
+Production of Sotfware Requirements Speciication  
+Script Planning  
+Script Development  
+Updates
+Bug Fixes   
 
 ## Timeline
 `29/03/2019 - Pianificazione exportdata.py`  
