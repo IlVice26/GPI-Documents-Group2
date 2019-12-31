@@ -32,20 +32,21 @@ Luca Landolfo is responsible for the development and maintenance of this documen
 # Table of Contents
 
 ### **1 OVERVIEW**
-1.1 Purpose and Scope  
-1.2 Goals and Objectives  
-1.3 Project Deliverables  
-1.4 Assumptions and Constraints  
-1.5 Success Criteria  
-1.6 Definitions  
-### 2 STARTUP PLAN  
-2.1 Team Organization  
-2.2 Project Communications  
-2.3 Technical Process  
-2.4 Tools  
-### 3 WORK PLAN  
-3.1 Resource Estimate  
-3.2 Release Plan  
+1.1 Purpose and Scope
+1.2 Goals and Objectives
+1.3 Project Deliverables 
+1.4 Assumptions and Constraints
+1.5 Success Criteria
+1.6 Definitions
+### 2 STARTUP PLAN
+2.1 Team Organization
+2.2 Project Communications
+2.3 Technical Process
+2.4 Tools
+### 3 WORK PLAN
+3.1 Resource Estimate
+3.2 Release Plan
+3.3 Iteration Plans
 
 # 1. Overview
 
@@ -159,8 +160,44 @@ Feedback from the Stakeholder will be used to improve the next iteration.
 | Production _setup.py_ | Munteanu, Vicentini | 5 | 6 |
 | Creation of the 1st version of _exportdata.py_, with tests and bug fixes | Whole team | 20 | 14 |
 | Script that works on log files | Marocchio | 10 | 20 |
-| Update the program to work with MarconiTT's API | Whole team | 2 | 1.30 |
+| Update the program to work with MarconiTT's API | Whole team | 3 | 1.30 |
 | Completed and Updated the script for the log files | Marocchio | 2 | 2.15 |
 | Final improvements and bug fixes of the main program | Whole team | 10 | 4 |
-| **Total:** | // | **54.2** | **50.2** |
+| **Total:** | // | **55.2** | **50.2** |
+
+## 3.2 Release Plan
+
+    Iteration #1                                         29/03/19 - 04/04/19
+**Summary:** First working prototype of the program, that connects to the server via a json config file and works with a basic script for writing logs.
+| Feature/Deliverables | Estimated Effort | Actual Effort |
+|--|--|--|
+| Plan the project | 10 | 6 |
+| Complete 1st working prototype | 30 | 30 |
+    Iteration #2                                         20/09/19 - 16/12/19
+**Summary:** Update the code to work with MarconiTT's API, in order to connect to the server. Fixed minor bugs and errors from previous version. Completed the script that works with log files.
+| Feature/Deliverables | Estimated Effort | Actual Effort |
+|--|--|--|
+| Update the main program so it connects to MarconiTT's API | 3 | 1.30 |
+| Complete log files script | 7 | 12.15 |
+| Recognize and fix the faults | 10 | 4 |
+
+## 3.3 Iteration Plans
+### 3.3.1 First Iteration
+The first iteration has as its intent to create a 1° working prototype of the program. It must be able to connect and perform the first simple operations on the databases, no matter how efficient. Also in this first iteration, we try to process a beta version for a script that will create and store log files for the main tasks that the program executes.
+
+### 3.3.2 Second Iteration
+This version of code will first have to work with MarconiTT's API to connect to the server and the databases. Obviously the connection method of the last iteration will have to work without problems anyway. The program will also need to be much more efficient and for this reason it will mainly be necessary to change the queries that are executed on the database.
+
+# 4 Control Plan
+## 4.1 Configuration Management Plan
+The following procedure is to be used when making changes to all baselined work products:
+
+ 1. All project work products will be stored in a GitHub repository.  
+ 2. All the documentation will be stored in a separated [repository](https://github.com/IlVice26/GPI-Documents-Group2.git).  
+ 3. The change control procedure once a product is baselined is:
+	 - anyone wanting to make a change to a baselined item should fork the repo and once the changes have been made, a pull request can be opened, and if accepted, the changes will be pushed to the main codebase.  
+	 - If the pull request is denied, the team will inform you on how the changes can be improved to work with the whole project.  
+
+# 5 Product Acceptance Plan
+At the conclusion of each iteration, the version of the prototype has to be tested in an environment similar to the one used in our working space. This is necessary since the program has to work with multiple servers and databases, which all have different types of data.
 
