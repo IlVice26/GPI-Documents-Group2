@@ -23,30 +23,31 @@ This document is stored in a GitHub [repository](https://github.com/IlVice26/GPI
 
 Luca Landolfo is responsible for the development and maintenance of this document.
 
-  
-
 <br>
-
-  
 
 # Table of Contents
 
-### **1 OVERVIEW**
-1.1 Purpose and Scope
-1.2 Goals and Objectives
-1.3 Project Deliverables 
-1.4 Assumptions and Constraints
-1.5 Success Criteria
-1.6 Definitions
-### 2 STARTUP PLAN
-2.1 Team Organization
-2.2 Project Communications
-2.3 Technical Process
-2.4 Tools
-### 3 WORK PLAN
-3.1 Resource Estimate
-3.2 Release Plan
-3.3 Iteration Plans
+### **1 OVERVIEW**  
+1.1 Purpose and Scope  
+1.2 Goals and Objectives  
+1.3 Project Deliverables   
+1.4 Assumptions and Constraints  
+1.5 Success Criteria  
+1.6 Definitions  
+### **2 STARTUP PLAN**  
+2.1 Team Organization  
+2.2 Project Communications    
+2.3 Technical Process    
+2.4 Tools    
+### **3 WORK PLAN**  
+3.1 Resource Estimate  
+3.2 Release Plan  
+3.3 Iteration Plans  
+### **4 CONTROL PLAN**  
+4.1 Configuration Management Plan  
+### **5 PRODUCT ACCEPTANCE PLAN**  
+
+<br>
 
 # 1. Overview
 
@@ -167,14 +168,17 @@ Feedback from the Stakeholder will be used to improve the next iteration.
 
 ## 3.2 Release Plan
 
-    Iteration #1                                         29/03/19 - 04/04/19
-**Summary:** First working prototype of the program, that connects to the server via a json config file and works with a basic script for writing logs.
+    Iteration #1                                                                          29/03/19 - 04/04/19  
+**Summary:** First working prototype of the program, that connects to the server via a json config file and works with a basic script for writing logs.  
+
 | Feature/Deliverables | Estimated Effort | Actual Effort |
 |--|--|--|
 | Plan the project | 10 | 6 |
 | Complete 1st working prototype | 30 | 30 |
-    Iteration #2                                         20/09/19 - 16/12/19
-**Summary:** Update the code to work with MarconiTT's API, in order to connect to the server. Fixed minor bugs and errors from previous version. Completed the script that works with log files.
+
+    Iteration #2                                                                           20/09/19 - 16/12/19  
+**Summary:** Update the code to work with MarconiTT's API, in order to connect to the server. Fixed minor bugs and errors from previous version. Completed the script that works with log files.  
+
 | Feature/Deliverables | Estimated Effort | Actual Effort |
 |--|--|--|
 | Update the main program so it connects to MarconiTT's API | 3 | 1.30 |
