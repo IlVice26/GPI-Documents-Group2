@@ -10,7 +10,6 @@ Software Requirements Specification
 - Overview
 - Goals and Objectives
 - Scope
-- Definitions
 
 ### 2) General Design Constraints
 - ETL Support Application Environment
@@ -30,7 +29,7 @@ Software Requirements Specification
 - Required Features
 - Optional Features
 
-### Revision History
+## Revision History
 |Version    |Date       |Name   |Description                                |
 |-----------|-----------|-------|-------------------------------------------|
 |1          |29/03/2019 |       |Pianificazione exportdata.py               |  
@@ -48,7 +47,7 @@ Software Requirements Specification
 |13         |16/12/2019 |       |Perfezionamento di exportdata.py           |  
 |14         |16/12/2019 |       |Completata la versione finale del programma|
 
-### 1) Introduction
+## 1) Introduction
 ### Overview
 The ETL-Support program will be a Python script available only for Windows operating system. The program will allow you to back up your classroom reservation management data on a server (SIGMAQ). The backup result will be made available by the Reporting Service of the school.
 This document provides information on the requirements for the ETL Support software application.
@@ -56,3 +55,12 @@ This document provides information on the requirements for the ETL Support softw
 ### Goals and Objectives
 The purpose of ETL Support is to back up classroom reservation time data on a server (SIGMAQ) to allow for the visualization of the data thanks to the reporting services of the school.
 
+### Scope
+As per introduction, the purpose of the program is to back up class booking data and to allow a visualization of the data to the reporting service of the school.
+
+### Definitions
+- *Stackholder:* It's the person who's part of the process ETL-Support.
+
+## 2) General Design Constraints 
+
+### ETL-Support Application Environment
