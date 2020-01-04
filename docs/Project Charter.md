@@ -4,6 +4,7 @@ Software Requirements Specification
 
 ## Software Requirements Specification for Team 2
 ### Version 1.0
+### Document Owner: Elia Vicentini
 
 ## Table of Contents
 ### 1) Introduction
