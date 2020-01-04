@@ -11,6 +11,8 @@ This document is stored in a GitHub [repository](https://github.com/IlVice26/GPI
 
 Munteanu Adrian is responsible for the development and maintenance of this document.
 
+## Project info
+
 |Project title  |ETL - Support - 2018   |
 |---------------|-----------------------|
 |Start Date     |29/03/2019             |
