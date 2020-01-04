@@ -1,4 +1,5 @@
 # PROJECT MODEL
+## **ETL Support 2019 - Group 2**
 ### Version 1.0
 ***
 
@@ -44,20 +45,20 @@ Updates
 Bug Fixes   
 
 ## Timeline
-`29/03/2019 - Pianificazione exportdata.py`  
-`29/03/2019 - Creazione file di configurazione json`  
-`30/03/2019 - Produzione setup.py`  
-`02/04/2019 - Creazione exportdata.py`  
+`29/03/2019 - Plan _exportdata.py_`  
+`29/03/2019 - json configuration file creation`  
+`30/03/2019 - Production _setup.py_`  
+`02/04/2019 - Prototype of _exportdata.py_`  
 `02/04/2019 - Tests`  
 `02/04/2019 - Bug fixes`  
-`03/04/2019 - Progettazione script per i file di log`  
-`04/04/2019 - Completata la prima versione del programma`  
+`03/04/2019 - Script design for log files`  
+`04/04/2019 - Completed the first version of the program`  
 `20/09/2019 - Update exportdata.py`  
 `30/09/2019 - Bug fixes`  
 `30/09/2019 - Update all scripts`  
-`21/10/2019 - Completato lo script per i file di log`  
-`16/12/2019 - Perfezionamento di exportdata.py`  
-`16/12/2019 - Completata la versione finale del programma`  
+`21/10/2019 - Finished the script for log files`  
+`16/12/2019 - Improvements on _exportdata.py_`  
+`16/12/2019 - Finished the final version of the product`  
 
 ## Resources
 Python 3.7  
