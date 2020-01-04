@@ -3,6 +3,14 @@
 ### Version 1.0
 ***
 
+### **Document Storage**
+
+This document is stored in a GitHub [repository](https://github.com/IlVice26/GPI-Documents-Group2.git), where you can also find all the other types of documentation regarding this project.
+
+### **Document Owner**
+
+Munteanu Adrian is responsible for the development and maintenance of this document.
+
 |Project title  |ETL - Support - 2018   |
 |---------------|-----------------------|
 |Start Date     |29/03/2019             |
@@ -11,21 +19,25 @@
 |Users          |Referente Orario       |
 
 ## Purpose
+
 Taking the data from the Marconi TimeTable database that manages the classrooms reservations, through the ETL (extract, transfrom and load) process create a script that
 - produce a table file (.csv)
 - import the file into the database for SQL reporting services
 - update the backup database
  
 ## Scope
+
 ETL-Support-2018 will allow automatic backup of booking management data and generation of a tabular file.
 
 ## Stakeholders
+
 - **Referente orario**
 - **Referente orario web**
 - **Web Admin**
 - **Personale scolastico**
  
 ## Team
+
 - **Adrian Munteanu**
 - **Luca Landolfo**
 - **Enrico Marocchio**
@@ -33,6 +45,7 @@ ETL-Support-2018 will allow automatic backup of booking management data and gene
 - **Simone Gandini** 
 
 ## Actions
+
 Setting up Trello showcase  
 Production of Business Model Canvas  
 Production of Poject Charter  
@@ -45,6 +58,7 @@ Updates
 Bug Fixes   
 
 ## Timeline
+
 `29/03/2019 - Plan _exportdata.py_`  
 `29/03/2019 - json configuration file creation`  
 `30/03/2019 - Production _setup.py_`  
@@ -61,10 +75,12 @@ Bug Fixes
 `16/12/2019 - Finished the final version of the product`  
 
 ## Resources
+
 Python 3.7  
 MySQL  
 SQL  
 
 ## Constraints
+
 Time  
 Hardware  
