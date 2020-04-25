@@ -19,7 +19,7 @@ Adrian Munteanu is responsible for the development and maintenance of this docum
 
 ###	Introduction
 
-This document provides the test cases to be carried out for the Roo Balance Application.  Each item to be tested is represented by an individual test case.  Each case details the input and expected outputs.
+This document provides the test cases to be carried out for the ETL-Support-2019 Application.  Each item to be tested is represented by an individual test case.  Each case details the input and expected outputs.
 
 
 ---
