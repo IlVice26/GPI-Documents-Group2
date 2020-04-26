@@ -82,7 +82,7 @@ Adrian Munteanu is responsible for the development and maintenance of this docum
 |Test Case ID:|1.6|
 |Title:|Insert data into SQL DataBase|
 |Feature/Sub-feature:|Application arguments|
-|Purpose:|To make sure that it is possible visualize additional details about what the program is doing|
+|Purpose:|To make sure that it is possible display additional details about what the program is doing|
 |Test Data:|Test Data will include info taken from any source (API or direct)|
 |Test Actions:|1. Open cmd <br /> 2. Run the `exportdata.py` in any mode with `--noupload` (to do not insert any data) and `-v` as arguments|
-|Expected Results:|After Step 2 data from CSV file should be inserted in the SQL DataBase with no errors.|
+|Expected Results:|After Step 2 details about what the program is doing should be displayed in the cmd.|
