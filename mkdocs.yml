@@ -4,6 +4,22 @@ nav:
     - 'Software Requirements Specification': 'Software RequirementSpecification.md'
     - 'Software Project Management plan': 'Software Project Management Plan.md'
     - 'Project Model Canvas': 'Project Model.md'
+    - 'Architecture Design and Coding Standards': 'Architecture DesignETL.md'
+    - 'Iteration Plan': 'Iteration Plan.md'
+    - 'Iteration Plan (PDF)': 'Iteration Plan.pdf'
+    - 'MOU': 'Memorandum of understanding.md'
+    - 'MOU (PDF)': 'Memorandum of understanding.pdf'
+    - 'Release Plan': 'Release Plan.md'
+    - 'Release Plan (PDF)': 'Release Plan.pdf'
+    - 'Success Criteria': 'SuccessCriteriaETL.md'
+    - 'System Documentation': 'System Documentation.md'
+    - 'System Documentation (PDF)': 'System Documentation.pdf'
+    - 'Test Case Specification': 'Test Case Specification.md'
+    - 'Test Case Specification (PDF)': 'Test Case Specification.pdf'
+    - 'Testing Doc. and Specification': 'Testing Document and Specification.md'
+    - 'Testing Doc. and Specification (PDF)': 'Testing Document and Specification.pdf'
+    - 'User Guide': 'User Guide.md'
+    - 'User Guide (PDF)': 'User Guide.pdf'
     
 theme:
     name: readthedocs
