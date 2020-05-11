@@ -26,7 +26,7 @@ This document provides the test cases to be carried out for the ETL-Support-2019
 
 |Version|Date|Author|Description|
 |-|-|-|-|
-|1|29/03/19|Adrian Munteanu|Initial document|
+|1|26/04/20|Adrian Munteanu|Initial document|
 
 ---
 
