@@ -22,24 +22,11 @@ This document provides the test cases to be carried out for the ETL-Support-2019
 
 ### Revision History
 
-||||
-|-|-|-|
-|Author|Date|Description|
-|Elia Vicentini|29/03/19|Initial release.|
-|Luca Landolfo|29/03/19|Added JSON connection file.|
-|Luca Landolfo|29/03/19|Connect to the server via JSON's data.|
-|Elia Vicentini|	30/03/19|	Added 'PyMySQL' library.|
-|Luca Landolfo|	30/03/19|	Implemented boold.|
-|Elia Vicentini & Adrian Munteanu|	30/03/19|	Created `setup.py`|
-|Enrico Marocchio|30/03/19|	Created `logcreator.py`|
-|Whole Team|	31/03/19|	Various updates to work with a test server.|
-|Adrian Munteanu & Simone Gandini|	01/04/19|	Improved different functions.|
-|Luca Landolfo & Elia Vicentini|	01/04/19|	Connection to edu-x04 and 1° query execution.|
-|Whole Team|	02/04/19|	Updates on the logging and errors exception functionalities.|
-|Elia Vicentini & Luca Landolfo|	03/04/19|	Added functionality to insert data into the database.|
-|Luca Landolfo, Adrian Muntanu & Simone Gandini|	03/04/19|	Added sys-argv and improved several minor errors.|
-|Enrico Marocchio|	03/04/19|	Updated and added more functionalities for the logging system.|
-|Enrico Marocchio|	04/04/19|	Completed `logcreator.py`|
+### Revision History
+
+|Version|Date|Author|Description|
+|-|-|-|-|
+|1|29/03/19|Adrian Munteanu|Initial document|
 
 ---
 
